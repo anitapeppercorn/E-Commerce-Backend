@@ -22,8 +22,9 @@ Internet retail, also known as e-commerce, is the largest sector of the electron
 
 
 ## Demo & Models
-![Demo GIF of app](/assets/app.gif)
-![DemoVideo](https://youtu.be/KlwsOc-TnfQ)
+1. A link to the video where I seed and start running the application on locallost is here. https://youtu.be/SuJc83sVyK4
+2. I have tested the routes on Insomnia and that Demo is included here https://youtu.be/e9tcnqpGvHo
+3. This application is deployed to github at: https://github.com/anitapeppercorn/E-Commerce-Backend
 ### Demo 
 The video that demonstrates the functionality of the backend and shows the technical acceptance criteria being met. It shows how a user would invoke the application from the command line and a functional menu with the options outlined in the acceptance criteria.
 ### Database Models
