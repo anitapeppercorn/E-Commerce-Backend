@@ -1,8 +1,10 @@
 # E-Commerce Backend
 I have built the back end for an e-commerce site. I have used an Express.js API, configure it to use Sequelize to interact with a MySQL database.
 
-Because this application is not deployed, I have created a walkthrough video that demonstrates its functionality. A link to the video is included here https://youtu.be/KlwsOc-TnfQ 
-This application is deployed to github at: https://github.com/anitapeppercorn/E-Commerce-Backend
+Because this application is not deployed, I have created a walkthrough video that demonstrates its functionality. 
+1. A link to the video where I seed and start running the application on locallost is here. 
+2. I have tested the routes on Insomnia and that Demo is included here https://youtu.be/KlwsOc-TnfQ 
+3. This application is deployed to github at: https://github.com/anitapeppercorn/E-Commerce-Backend
 
 ## Contents
 - [Description](#Description)
